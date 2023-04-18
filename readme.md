@@ -1,5 +1,5 @@
 Aide pour lire le pdf :   
-![alt text](https://github.com/kylak/JavaXML/blob/master/data/readme-image.png)
+![alt text](https://github.com/gustavblty/JavaXML/blob/master/data/readme-image.png)
 
 
 - Voici une commande à entrer dans le terminale pour exécuter le programme : 
